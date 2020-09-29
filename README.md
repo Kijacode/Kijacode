@@ -1,23 +1,11 @@
-### Hi there I'm elirehema  👋 
-##### [Let me know that you have being here :wave:](https://twitter.com/intent/tweet?text=Hi%20%40elixml%20%F0%9F%91%8B.%20I%20am%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2Felirehema)%0A%0A)
+# 🏄🏾 I'm Danford Kija 🏄🏾  
+##### [notify me on my guest list :wave:](https://twitter.com/intent/tweet?text=Hi%20%40Kijacode%20%F0%9F%91%8B.%20I%20am%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2FKijacode)%0A%0A)
 <table>
   <tr>
     <td>Visitors: </td>
     <td><img src="https://profile-counter.glitch.me/elirehema/count.svg" alt="" /></td>
   </tr>
 </table>
+ let believe that ☝🏿, while github working on this feature
 
-<!--
-**elirehema/elirehema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

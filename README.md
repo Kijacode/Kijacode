@@ -7,5 +7,8 @@
   </tr>
 </table>
  let believe ☝🏿 feature for now, while github working on the feature
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kijacode&show_icons=true&theme=radical&count_private=true)
+
 
 

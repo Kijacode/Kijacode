@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>Visitors: </td>
-    <td><img src="https://profile-counter.glitch.me/elirehema/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/Kijacode/count.svg" alt="" /></td>
   </tr>
 </table>
  let believe ☝🏿 feature for now, while github working on the feature

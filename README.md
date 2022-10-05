@@ -11,6 +11,7 @@
 ### Status
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kijacode&show_icons=true&theme=merko&count_private=true)
 
 
 

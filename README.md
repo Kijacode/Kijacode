@@ -6,12 +6,24 @@
     <td><img src="https://profile-counter.glitch.me/Kijacode/count.svg" alt="" /></td>
   </tr>
 </table>
- let believe ☝🏿 feature for now, while github working on the feature
+ let believe ☝🏿 feature for now, while github working on it
 
-### Status
-
+### My Contribution Status
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kijacode&show_icons=true&theme=merko&count_private=true)
+
+ 
+## Recently Played
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313jyuuy6em5qosotwlsud5r7sui&width=1000&unique=1)
+
+## My Social
+- [StackOverflow](https://stackoverflow.com/users/9027598/danford-kija)
+- [Twitter](https://twitter.com/Kijacode)
+- [Medium](https://medium.com/@kijadanford)
+- [Email](mailto:kijadanford@gmail.com)
+
+
 
 
 

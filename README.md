@@ -17,7 +17,7 @@
 
 ## Recently Played
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313jyuuy6em5qosotwlsud5r7sui&width=1000&count=5&unique=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313jyuuy6em5qosotwlsud5r7sui&width=1000&count=5)
 
 ### My Contribution Status
 
